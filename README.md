@@ -174,5 +174,6 @@ https://github.com/BYVoid/OpenCC/blob/master/NEWS.md
 * [Cychih](https://github.com/pi314)
 * [kyleskimo](https://github.com/kyleskimo)
 * [Ryuan Choi](https://github.com/bunhere)
+* [內木一郎](https://github.com/SyaoranHinata)
 
 Please update this list you have contributed OpenCC.
